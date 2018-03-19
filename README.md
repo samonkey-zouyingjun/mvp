@@ -278,3 +278,6 @@ public class LoginInteractorImpl implements LoginInteractor {
 [Material-Movies github地址](https://github.com/saulmm/Material-Movies)（ 使用material design +MVP实现的Material-Movies）
 [androidmvp](https://github.com/antoniolg/androidmvp)（star2000+的MVP实例）
 [MVP for Android: how to organize the presentation layer](http://antonioleiva.com/mvp-android/)（star2000+MVP的讲解）
+
+
+、、ps git test
